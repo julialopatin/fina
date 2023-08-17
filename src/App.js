@@ -2,10 +2,13 @@
 import './App.css';
 
 function App() {
-  return (
-    <div homepage>
-    </div>
-  );
-}
+    <Header/>
+    <Nav/>
+    <Hero/>
+    <Highlites/>
+    <Testimonials/>
+    <About/>
+    <Footer/>
+};
 
 export default App;
