@@ -6,6 +6,7 @@ const home = () => {
         <div>
             <Navbar/>
             <Header/>
+            <Highlites/>
         </div>
     );
 };
