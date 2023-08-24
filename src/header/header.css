@@ -3,6 +3,7 @@ background-color: 495E57;
 color: EDEFEE;
 display: flex;
 justify-content: center;
+position: relative;
 }
 
 .headerContainer{
@@ -44,4 +45,10 @@ font-weight: 500px;
 border: none;
 padding: 10px;
 cursor: pointer;
+}
+
+.img{
+height: fit-content;
+position: absolute;
+bottom: -50%;
 }

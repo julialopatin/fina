@@ -14,7 +14,7 @@ const header = () => {
               <p1 className="headerDesc1">We are a Mediteranian restaurant, focused on traditional recipes served with a modern twist</p1>
               <button className="headerBtn">Reserv a table</button>
           </div></><div>
-            <img src={require('restaurantfood.jpg')} alt='restaurantfood'></img>
+            <img className="img" src={require('restaurantfood.jpg')} alt='restaurantfood'></img>
           </div></>
   );
 };

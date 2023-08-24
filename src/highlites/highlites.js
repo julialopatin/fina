@@ -1,6 +1,6 @@
 import "/highlites.css"
 
-const header = () => {
+const highlites = () => {
   return (
     <><><><div className="header"></div>
           <div className="headerContainer"></div>
